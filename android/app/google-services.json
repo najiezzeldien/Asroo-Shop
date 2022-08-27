@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142844199541",
+    "project_id": "naji-shop-getx",
+    "storage_bucket": "naji-shop-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142844199541:android:f6debb72c37566b3966e3c",
+        "android_client_info": {
+          "package_name": "com.najiezzeldien.naji_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142844199541-6tn2fm2d0tlbd2mei16mp9rndmm20jr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5E4gM0uIlDsLnGGxn9vSb58QVEN87u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142844199541-6tn2fm2d0tlbd2mei16mp9rndmm20jr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
